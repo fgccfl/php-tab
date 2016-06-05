@@ -1,0 +1,9 @@
+# Ignore webfonts (due to possible license incompatibility)
+/public/fonts/*.woff
+/public/fonts/*.woff2
+/public/fonts/*.ttf
+/public/fonts/*.eot
+/public/fonts/*.svg
+
+# Ignore secrets.ini
+/config/secrets.ini
